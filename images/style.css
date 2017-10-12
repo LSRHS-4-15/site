@@ -1,0 +1,25 @@
+body {
+  color: violet;
+  font-family:"Indie Flower", cursive;
+  font-size: 15pt;
+  background-color: LightCyan;
+}
+
+h1 {
+  color: LightBlue;
+  font-family:"Princess Sofia", cursive;
+  font-size: 30pt;
+}
+
+h2 {
+  color: pink;
+  font-family:"Indie Flower", cursive;
+  font-size: 20pt;
+}
+
+a:hover {
+  background-color: SeaShell;
+}
+table, th, td {
+  border: 3px solid white;
+}
