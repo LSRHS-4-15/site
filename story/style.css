@@ -1,0 +1,40 @@
+body {
+  color: Coral;
+  font-family:"Manuale", normal;
+  font-size: 10pt;
+  background-color: AliceBlue;
+}
+.center {
+  margin: auto;
+  width: 50%;
+  padding-left: 70px;
+  padding-right: 70px;
+}
+h1 {
+  color: LightBlue;
+  font-family:"Anton", normal;
+  font-size: 30pt;
+}
+
+h2 {
+  font-family:"Anton", normal;
+  font-size: 20pt;
+}
+
+a:hover {
+  background-color: MidnightBlue;
+}
+a {
+  color: Coral;
+}
+table {
+  margin: 40px;
+}
+th{
+  font-size: 30pt;
+  padding: 5px;
+}
+td{
+  font-size: 25pt;
+  padding: 5px;
+}
