@@ -1,0 +1,83 @@
+body{
+  color: white;
+  background-color: #46c7c7;
+  font-family:"Manuale", normal;
+}
+
+#header {
+    width: 1100px;
+    height: 190px;
+    float: left;
+    border: 1px solid #46c7c7;
+    background-image: url("oprahhouse.jpg");
+}
+#header h2{
+    font-size: 50px;
+}
+#menu {
+  top: 20px;
+  display: inline-block;
+  border: 1px solid #46c7c7;
+  width: 200px;
+  height: 150px;
+  margin: 5px;
+  float: left;
+  clear: both;
+}
+#menu li{
+  font-weight: bold;
+  text-transform: uppercase;
+  margin-right: 14px;
+}
+
+#map {
+    width: 600px;
+    height: 450px;
+    border: 1px solid #46c7c7;
+    margin: 5px;
+    float: left;
+}
+#cite {
+    width: 690px;
+    height: 300px;
+    border: 1px solid #46c7c7;
+    margin: 5px;
+    float: left;
+}
+#pictures {
+    width: 600px;
+    height: 1055px;
+    border: 1px solid #46c7c7;
+    margin: 5px;
+    float: left;
+}
+#testimonials {
+  top: 20px;
+  display: inline-block;
+  border: 1px solid #46c7c7;
+  width: 600px;
+  height: 100px;
+  margin: 5px;
+  float: left;
+  clear: both;
+}
+#attractions {
+  top: 20px;
+  display: inline-block;
+  border: 1px solid #46c7c7;
+  width: 600px;
+  height: 180px;
+  margin: 5px;
+  float: left;
+  clear: both;
+}
+#attractions2 {
+  top: 20px;
+  display: inline-block;
+  border: 1px solid #46c7c7;
+  width: 600px;
+  height: 100px;
+  margin: 5px;
+  float: left;
+  clear: both;
+}
